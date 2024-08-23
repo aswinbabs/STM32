@@ -1,0 +1,10 @@
+15:16:57 **** Incremental Build of configuration Debug for project STM32_ETHERNET ****
+make -j4 all 
+arm-none-eabi-size   STM32_ETHERNET.elf 
+   text	   data	    bss	    dec	    hex	filename
+  69464	    472	 310992	 380928	  5d000	STM32_ETHERNET.elf
+Finished building: default.size.stdout
+ 
+
+15:16:58 Build Finished. 0 errors, 0 warnings. (took 734ms)
+

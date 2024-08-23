@@ -1,0 +1,10 @@
+16:17:57 **** Build of configuration Debug for project Hardware_interrupt ****
+make -j4 all 
+arm-none-eabi-size   Hardware_interrupt.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6228	     20	   1572	   7820	   1e8c	Hardware_interrupt.elf
+Finished building: default.size.stdout
+ 
+
+16:17:57 Build Finished. 0 errors, 0 warnings. (took 335ms)
+
